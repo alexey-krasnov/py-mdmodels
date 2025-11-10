@@ -56,4 +56,5 @@ UNIT_MAPPING = {
     "°C": UnitType.CELSIUS,
     "deg_C": UnitType.CELSIUS,
     "dimensionless": UnitType.DIMENSIONLESS,
+    "%": UnitType.PERCENT,
 }

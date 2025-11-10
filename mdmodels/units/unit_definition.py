@@ -157,6 +157,7 @@ class UnitType(Enum):
     NEWTON = "newton"
     OHM = "ohm"
     PASCAL = "pascal"
+    PERCENT= "percent"
     RADIAN = "radian"
     SECOND = "second"
     SIEMENS = "siemens"

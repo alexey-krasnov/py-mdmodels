@@ -44,6 +44,7 @@ CUSTOM_UNITS = [
     # Define and enable 'mM' as millimolar
     u.def_unit('mM', 1e-3 * u.mol / u.L),
     u.def_unit("dimensionless", u.dimensionless_unscaled),
+    u.def_unit("° C", u.deg_C)
 ]
 
 u.add_enabled_units(CUSTOM_UNITS)
